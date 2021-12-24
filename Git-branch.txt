@@ -1,0 +1,9 @@
+- git branch: giúp chúng ta tạo ra nhiều nhánh làm việc khác nhau từ đó các lập trình viên làm việc trên branch(nhánh)
+đã được giao mà không ảnh hưởng đến các branch khác
+Câu lệnh:
+$ git branch <branch-name>  :tạo 1 Branch mới
+$ git checkout <branch-name> : chuyển sang branch khác để làm việc
+$ git merge <tên branch>     ; Gộp 2 branch với nhau và các commit không bị thay đổi và thức tự commit sẽ thay đổi theo thời gian
+$ git rebase <tên branch>     ; Gộp 2 branch với nhau nhưng rebase sẽ làm thay đổi lịch sử commit
+$ git branch -d <branch-name>   : xóa 1 tên branch(chúng ta k xóa được branch khi chúng ta đang làm việc với branch đó
+$ git push <tên-remote> <tên branch>: lệnh push một branch lên remote
