@@ -1,0 +1,5 @@
+  git diff: giúp hiển thị thông tin thay đổi giữa thư mục làm việc với commit cũ,thông tin thay đổi giữ 2 nhánh .....
+ Câu lệnh:
+$ git diff 
+$ git diff --staged   : ktra sự thay đổi của staging với commit cuối
+$ git diff branch1 branch2 : ktra sự thay đổi của 2 nhánh
