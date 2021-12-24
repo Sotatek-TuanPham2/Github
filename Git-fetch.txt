@@ -1,0 +1,6 @@
+-git fetch: giúp ta tải về dữ liệu từ remote,dữ liệu tải về để bạn theo dõi sự thay đổi của remote nhưng
+nó chưa có tích hợp thay đổi local,múc đích là để kiểm tra sự thay đổi giữa remote với local
+
+Câu lệnh:
+$ git fetch <branch-name>
+$ git fetch origin : lấy thông tin từ nhánh remote có tên origin
