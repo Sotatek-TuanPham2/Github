@@ -1,0 +1,5 @@
+-  git pull: là lấy thông tin từ remote về cập nhật vào các nhánh của local
+Câu lệnh:
++ git pull  ||  git pull origin
++ git pull --all : lấy thông tin từ tất cả các remote để cập nhật
++ git pull --rebase origin :viết lại lịch sử commit của nhánh đang làm việc, cập nhật toàn bộ nhánh remote là base của nó thì thực hiện

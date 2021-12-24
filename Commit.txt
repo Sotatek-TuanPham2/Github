@@ -1,0 +1,10 @@
+Commit (Cam kết) là thao tác gi lại việc thêm hoặc thay đổi file hay thư mục và kho lưu trữ Github và kho lưu trữ sẽ ghi nhận các thay đổi này theo thời gian
+từ đó chúng ta có thể biết được ai là người chỉnh sử và lịch sử chình sửa các file
+
+Lệnh terminal:
+	
++ git commit -m "Nội dung commit"  		(tạo commit)
+
++ git commit --amend -m "Nội dung commit" 	(đổi commit đã được tạo cuối cùng khi chưa thực hiện remote)
+
++ git commit -a -m "Nội dung commit" 		(đưa các file đang thay đổi vào rồi tự động commit)

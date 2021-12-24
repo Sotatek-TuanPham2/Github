@@ -1,0 +1,4 @@
+- Github là một dihj vụ lluw trữ giữ liệu trang web dành cho các dự án sử dụng hệ thống Git revision,
+từ đó các lập trình viên có thể clone lại mã nguồn từ một repository và
+Github chính là một dịch vụ máy chủ repository công cộng,
+mỗi người có thể tạo tài khoản trên đó để tạo ra các kho chứa của riêng mình để có thể làm việc. 

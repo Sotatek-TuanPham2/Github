@@ -1,0 +1,7 @@
+- git push:là lệnh dùng để đẩy các commit mới ơ máy trạm(local) lên sever(remote) với nhánh(branch) mà nó đang làm việc
+
+câu lệnh:
++ git push -u origin master : tạo 1 theo dõi kết nối trong lần đầu khởi tạo,upstream  giữa local với remote
++ git push origin --all : đẩy tất cả các nhánh lên remote
++ git push origin --tags : đẩy tất cả các tag lên remote	
++ git push origin --delete : xóa 1 nhánh chỉ ra trên remote
